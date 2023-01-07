@@ -12,7 +12,7 @@ const Explore = () => {
 
   return (
     <section
-      className={`${styles.paddings}`}
+      className={`${styles.paddings} mb-[100px]`}
       id="projects"
     >
       <motion.div

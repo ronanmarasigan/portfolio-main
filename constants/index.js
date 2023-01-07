@@ -151,9 +151,5 @@ export const navLinks = [
     id: 'projects',
     title: 'Projects',
   },
-  {
-    id: 'drawing',
-    title: 'Drawings',
-  },
 
 ];

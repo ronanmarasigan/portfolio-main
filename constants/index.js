@@ -107,7 +107,7 @@ export const exploreWorlds = [
     imgUrl: '/project-5.png',
     title: 'Project 5',
     desc: 'Audio Player',
-    link: 'rm-audio-player-app.netlify.app',
+    link: 'https://rm-audio-player-app.netlify.app/',
   },
 ];
 

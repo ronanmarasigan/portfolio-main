@@ -104,10 +104,10 @@ export const exploreWorlds = [
   },
   {
     id: 'project-5',
-    imgUrl: '/404.png',
-    title: 'Not Found',
-    desc: 'Not Found',
-    link: ' ',
+    imgUrl: '/project-5.png',
+    title: 'Project 5',
+    desc: 'Audio Player',
+    link: 'rm-audio-player-app.netlify.app',
   },
 ];
 

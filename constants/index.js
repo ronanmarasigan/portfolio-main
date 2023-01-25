@@ -86,7 +86,7 @@ export const exploreWorlds = [
     imgUrl: '/Project-2.jpg',
     title: 'Project 2',
     desc: 'Created a simple landing page based on an existing website to explore and learn React.js',
-    link: 'https://ronanmarasigan.github.io/instrument-landingpage/',
+    link: 'https://rm-instrument-landingpage.netlify.app/',
   },
   {
     id: 'project-3',
